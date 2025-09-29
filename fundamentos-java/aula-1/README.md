@@ -82,3 +82,20 @@ Distribuições JDK (Oracle, Eclipse, Amazon, Microsoft, etc.)
 ### Notas
 
 - Classes iniciam sempre em letra maiuscula
+
+- Comando para compilar arquivo em java:
+
+```bash
+
+> javac Hello.java
+
+```
+
+- Este comando gera um arquivo compilado .class, agora comando para rodar um programa java:
+
+```bash
+> java Hello
+
+Ola mundo! Meu primeiro programa em Java 25!
+
+```
