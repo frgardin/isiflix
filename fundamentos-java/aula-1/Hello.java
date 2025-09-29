@@ -1,4 +1,4 @@
 
 void main() {
-	IO.println("Hello");
+	IO.println("Ola mundo! Meu primeiro programa em Java 25!");
 }
