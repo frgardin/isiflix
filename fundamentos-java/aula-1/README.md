@@ -79,3 +79,6 @@ Distribuições JDK (Oracle, Eclipse, Amazon, Microsoft, etc.)
 
 
 
+### Notas
+
+- Classes iniciam sempre em letra maiuscula
